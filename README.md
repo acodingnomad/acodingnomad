@@ -1,6 +1,6 @@
-### Hey, I'm Kris! 🌴👩🏻‍💻
+### Hey, I'm Kris! 🌴
 
-You might know me as the <a href="https://www.instagram.com/acodingnomad">Coding Nomad.</a>
+You might know me as the <a href="https://www.instagram.com/acodingnomad">Coding Nomad</a> 👩🏻‍💻.
 <br/><br/>
 I make videos about programming and working remotely on:
 <br/>
