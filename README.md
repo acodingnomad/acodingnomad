@@ -9,6 +9,10 @@ I make videos about programming and working remotely on:
 * <a href="tiktok.com/@coding_nomadd">TikTok</a>
 
 
+I was most recently a software developer at <a href="https://nzxt.com/">NZXT</a>. Before that, I was a software engineer at <a href="https://www.magicleap.com/en-us/">Magic Leap</a>.
+
+
+
 #### Languages and tools I work with:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
