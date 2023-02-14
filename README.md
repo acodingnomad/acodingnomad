@@ -1,4 +1,4 @@
-### Hey, I'm Kris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey, I'm Kris! 🌴👩🏻‍💻
 
 You might know me as the <a href="https://www.instagram.com/acodingnomad">Coding Nomad.</a>
 <br/><br/>
