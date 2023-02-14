@@ -1,8 +1,7 @@
 ### Hey, I'm Kris! 🌴
 
 You might know me as the <a href="https://www.instagram.com/acodingnomad">Coding Nomad</a> 👩🏻‍💻.
-<br/><br/>
-
+<br/>
 I was most recently a software developer at <a href="https://nzxt.com/" target="_blank" rel="noreferrer noopener">NZXT</a>. Before that, I was a software engineer at <a href="https://www.magicleap.com/en-us/" target="_blank" rel="noreferrer noopener">Magic Leap</a>.
 
 I make videos about programming and working remotely on:
