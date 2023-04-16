@@ -5,7 +5,7 @@ You might know me as the <a href="https://www.instagram.com/acodingnomad">Coding
 
 I was most recently a software developer at <a href="https://nzxt.com/" target="_blank" rel="noreferrer noopener">NZXT</a>. Before that, I was a software engineer at <a href="https://www.magicleap.com/en-us/" target="_blank" rel="noreferrer noopener">Magic Leap</a>.
 
-I make videos about programming and working remotely on <a href="https://www.instagram.com/acodingnomad">Instagram</a>, <a href="https://www.youtube.com/c/acodingnomad">Youtube</a>, <a href="tiktok.com/@coding_nomadd">TikTok</a>
+I make videos about programming and working remotely on <a href="https://www.instagram.com/acodingnomad">Instagram</a>, <a href="https://www.youtube.com/c/acodingnomad">Youtube</a>, and <a href="tiktok.com/@coding_nomadd">TikTok</a>.
 
 
 #### Languages and tools I work with:
